@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Gradient banner via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KingsleyO.%20ValerieI.&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Web%20Development%20Student%20%7C%20UI%2FUX%20%7C%20Computer%20Science&descSize=18&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kingsley-O.%20c/oValerie-I.&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Web%20Development%20Student%20%7C%20UI%2FUX%20%7C%20Computer%20Dev-entusiast&descSize=18&descAlignY=75" width="100%"/>
 
 <!-- Status badge -->
 ![Status](https://img.shields.io/badge/●%20FULL%20STACK%20LEARNER-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
@@ -30,7 +30,7 @@ I build web experiences that combine code, design, databases and creative ideas.
 <!-- Social links -->
 [![GitHub](https://img.shields.io/badge/GITHUB-Kaypoops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaypoops)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Kingsley--Owuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-owuma-855933b3/))
-[![Email](https://img.shields.io/badge/EMAIL-valerieeworld14@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](valerieeworld14@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-Hit-me-up-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](hit-me-up)
 
 </div>
 
