@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Gradient banner via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=text=Kingsley-O.%20c%2Fo%20Valerie-I.&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Web%20Development%20Student%20%7C%20UI%2FUX%20%7C%20Computer%20Enthusiast&descSize=18&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kingsley-O.%20c%2Fo%20Valerie-I.&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Web%20Development%20Student%20%7C%20UI%2FUX%20%7C%20Computer%20Enthusiast&descSize=18&descAlignY=75" width="100%"/>
 
 <!-- Status badge -->
 ![Status](https://img.shields.io/badge/●%20FULL%20STACK%20LEARNER-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
 
-### Father-Daughter Team Crafting Freelancer web experiences with design, data and creative logic.
+### Father-Daughter Team, Crafting Freelancer, web experiences with design, data and creative logic.
 
 <!-- Skill pills -->
 ![Full Stack](https://img.shields.io/badge/🖥️%20Full%20Stack-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
