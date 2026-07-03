@@ -21,16 +21,16 @@
 
 ## Kingsley O. C/O Valerie I.
 
-**Architect| Web Development |Web Designer | FrontEnd | BackEnd | Full Stack Learner | UI/UX & Computer Literacy**
+**Architect | Web Development | Web Designer | FrontEnd | BackEnd | Full Stack Learner | UI/UX & Computer Literacy**
 
-I build web experiences that combine code, design, databases and creative ideas.
+We build web experiences that combine code, design, databases and creative ideas.
 
 <br>
 
 <!-- Social links -->
 [![GitHub](https://img.shields.io/badge/GITHUB-Kaypoops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaypoops)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Kingsley--Owuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-owuma-855933b3/))
-[![Email](https://img.shields.io/badge/EMAIL-Hit-me-up-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](hit-me-up)
+[![Email](https://img.shields.io/badge/EMAIL-Hitusup-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](hitusup)
 
 </div>
 
