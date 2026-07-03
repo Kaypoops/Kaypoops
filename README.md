@@ -6,7 +6,7 @@
 <!-- Status badge -->
 ![Status](https://img.shields.io/badge/●%20FULL%20STACK%20LEARNER-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
 
-### Father-Daughter Team, Crafting Freelancer, web experiences with design, data and creative logic.
+### Father-Daughter Team, Crafting Freelancer, Web Experiences With Design, Data and Creative logic.
 
 <!-- Skill pills -->
 ![Full Stack](https://img.shields.io/badge/🖥️%20Full%20Stack-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
@@ -21,7 +21,7 @@
 
 ## Kingsley O. C/O Valerie I.
 
-**Architect | Web Development | Web Designer | FrontEnd | BackEnd | Full Stack Learner | UI/UX & Computer Literacy**
+**Architect | Web Development | UI/UX & Computer Literacy | Web Designer | FrontEnd | BackEnd | Full Stack Learner |**
 
 We build web experiences that combine code, design, databases and creative ideas.
 
