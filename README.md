@@ -11,7 +11,7 @@
 <!-- Skill pills -->
 ![Full Stack](https://img.shields.io/badge/🖥️%20Full%20Stack-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
 ![Databases](https://img.shields.io/badge/🗄️%20Databases-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
-![UI/UX](https://img.shields.io/badge/🎨%20UI%2FUX-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
+![FrontEnd/BackEnd](https://img.shields.io/badge/🎨%20UI%2FUX-6c3ce9?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
